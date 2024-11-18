@@ -1,0 +1,14 @@
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\bin\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.exe
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\bin\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.deps.json
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\bin\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.runtimeconfig.json
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\bin\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.dll
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\bin\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.pdb
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\obj\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\obj\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.AssemblyInfoInputs.cache
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\obj\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.AssemblyInfo.cs
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\obj\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.csproj.CoreCompileInputs.cache
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\obj\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.dll
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\obj\Debug\net8.0\refint\Askerlik Durumunu ve Yasını Ekrana Yazan Program.dll
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\obj\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.pdb
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\obj\Debug\net8.0\Askerlik Durumunu ve Yasını Ekrana Yazan Program.genruntimeconfig.cache
+C:\Users\wiusa\Documents\C# Basit Çalışmalar\Askerlik Durumunu ve Yasını Ekrana Yazan Program\obj\Debug\net8.0\ref\Askerlik Durumunu ve Yasını Ekrana Yazan Program.dll
